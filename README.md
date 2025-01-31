@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @justatomic
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on any project that involves PHP
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on any project that involves Javascript
 - 📫 How to reach me ? francisobi1121@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 justatomic/justatomic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
